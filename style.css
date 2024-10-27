@@ -1,0 +1,25 @@
+body{
+    background-color: #edad60;
+    text-align: center;
+}
+
+#title{
+    font-family: Arial;
+}
+
+#para1{
+    font-family: Arial;
+}
+
+#pinky{
+max-width: 50%;
+max-height: 50%
+}
+
+#para2{
+    font-family: Arial;
+}
+
+#name{
+    font-style: italic;
+}
